@@ -14,7 +14,7 @@ This repo contains beginner-friendly ethical hacking & cybersecurity tools, writ
 🎙️ هذا مشروعك الأول إذا تبي تدخل عالم الهاكينغ الأخلاقي.
 
 📂 الكود كامل هنا:  
-👉 [HackAlSalfa Keylogger Gist]([https://gist.github.com/yourusername/abc123](https://gist.github.com/hackalsalfa/0bcf809b4ecb54fc878d486bbe00c1dc)
+👉 [HackAlSalfa Keylogger Gist]([https://gist.github.com/yourusername/abc123] (https://gist.github.com/hackalsalfa/0bcf809b4ecb54fc878d486bbe00c1dc)
 
 ⚠️ للتعلم فقط – لا تستخدمه ضد أي شخص. جربه على جهازك وبس.
 
